@@ -1,6 +1,6 @@
-# Elixir Tutorials
+# Exploring Elixir Basics 
 
-Welcome to Elixir Tutorials, your ultimate resource for mastering the basics of the Elixir programming language. This guide is crafted to help you grasp essential Elixir concepts through easy-to-understand examples.
+Welcome to Elixir, your ultimate resource for mastering the basics of the Elixir programming language. This guide is crafted to help you grasp essential Elixir concepts through easy-to-understand examples.
 
 Elixir is a programming language designed to build scalable, fault-tolerant, high-performance applications. 
 
